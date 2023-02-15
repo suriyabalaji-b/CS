@@ -1,0 +1,76 @@
+header nav{
+    display: flex;
+    
+}
+header nav p{
+    width:650px;
+}
+header nav .space1{
+    width: 30px;
+}
+header nav img{
+    height:auto;
+    width:auto;
+    max-height: 42px;
+    max-width: 250px;
+}
+header nav .a1{
+    margin-top: 5px;
+    color:black;
+    background-color: white;
+    border-radius: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+    height: 10px;
+}
+nav a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    font-family: arial;
+}
+body{
+    background:rgba(0,0,0,0.4) url("WhatsApp Image 2023-02-15 at 14.10.42.jpg");
+   background-blend-mode: darken;
+}
+span{
+    color: #FF6200;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 0px;
+}
+h1{
+    color:white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 50px;
+    padding:0px;
+}
+main{
+      margin-top: 210px;
+      text-align: center;
+      margin-right: 230px;
+}
+main p{
+    color:white;
+    font-size: 30px;
+    font-family: Arial;
+}
+footer{
+    margin-left: 450px;
+}
+button{
+    background-color: #FF6200;
+    color:white;
+    border: #FF6200;
+    padding:15px;
+    height: 60px;
+    width:200px;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-top: 20px;
+}
